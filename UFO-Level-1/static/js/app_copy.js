@@ -1,3 +1,5 @@
+// Alternative Solution
+
 // from data.js
 var tableData = data;
 // select the body of the table where data will be populated
