@@ -20,11 +20,13 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * Use a date form in the HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
+<img src="https://github.com/LShafer/javascript-challenge/blob/master/ufofinder.png"><br>
+
 - - -
 
 ### Dataset
 
-* [UFO Sightings Data](static/js/data.js)
+* [UFO Sightings Data](js/data.js)
 
 - - -
 
